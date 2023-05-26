@@ -4,9 +4,6 @@ Audio Module
 
 This module provides functions for working with audio-related operations.
 
-Functions
----------
-
 .. function:: Audio.loadSound(filename)
 
    Loads a sound from the specified file.
