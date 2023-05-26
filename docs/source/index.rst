@@ -1,26 +1,21 @@
 Welcome to the unoffisal "gameEngine3" documentation!
 ===================================
 
-**GM** (/gameEngine3/) is a GameMonkeyScript based game-engine,
-This engine was used in SoundShapes (PS3, Vita). <https://en.wikipedia.org/wiki/Sound_Shapes>`_
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**GM3** is a GameMonkeyScript based game-engine used in SoundShapes (PS3, Vita). <https://en.wikipedia.org/wiki/Sound_Shapes>`_
 
 .. note::
 
-   This project is under active development.
+   This project is under active development,
+   Like it needs a LOT of work.
 
 Modules
 --------
 .. toctree::
    Video
+   DrawList
 
-:doc:`Video`
 
 Objects
 --------
 .. toctree::
    DrawList
-
-:doc:`DrawList`
