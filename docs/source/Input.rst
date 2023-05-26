@@ -4,9 +4,6 @@ Input Module
 
 This module provides functions for handling input events.
 
-Functions
----------
-
 .. function:: Input.isKeyPressed(keyCode)
 
    Returns true if the specified key is currently pressed.
