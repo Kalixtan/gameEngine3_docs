@@ -12,10 +12,25 @@ Modules
 --------
 .. toctree::
    Video
-   DrawList
+   ColourManager
+   Input
+   Math
+   GameSystem
+   HttpManager
+   Video
+   Audio
+   AnimationModule
+   EntityManager
 
 
 Objects
 --------
 .. toctree::
    DrawList
+
+Constants
+--------
+.. toctree::
+   Keycode
+   ShapeType
+   TextAlign
