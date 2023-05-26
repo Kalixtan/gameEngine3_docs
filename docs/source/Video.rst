@@ -1,10 +1,7 @@
-Video
+Video Module
 ================
 
 This module provides functions for working with video-related operations.
-
-Functions
----------
 
 .. function:: Video.getTexture(filename, area)
 
