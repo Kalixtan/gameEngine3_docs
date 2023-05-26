@@ -5,9 +5,6 @@ Math Module
 
 This module provides mathematical functions and constants.
 
-Functions
----------
-
 .. function:: MATH_MAX(a, b)
 
    Returns the maximum value between a and b.
