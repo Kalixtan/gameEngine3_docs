@@ -1,4 +1,4 @@
-Video. Functions
+Video
 ================
 
 This section provides documentation for the "Video." functions.
