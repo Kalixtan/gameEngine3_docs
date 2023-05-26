@@ -1,4 +1,4 @@
-ColourManager
+ColourManager Module
 ====================
 
 This module is used for managing and manipulating colors loaded from "colors.dat".
