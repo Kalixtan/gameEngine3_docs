@@ -1,6 +1,6 @@
 
 HttpManager Module
-------------------
+-----------------
 
 This module provides functions for sending HTTP requests.
 
