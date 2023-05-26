@@ -1,4 +1,4 @@
-DrawList
+DrawList Module
 ================
 
 This section provides documentation for functions inide the "drawList" object.
