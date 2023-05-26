@@ -1,6 +1,30 @@
+
+
+Math Module
+-----------
+
+This module provides mathematical functions and constants.
+
+Functions
+---------
+
+.. function:: MATH_MAX(a, b)
+
+   Returns the maximum value between a and b.
+
+   :param float a: The first value.
+   :param float b: The second value.
+
+.. function:: MATH_MIN(a, b)
+
+   Returns the minimum value between a and b.
+
+   :param float a: The first value.
+   :param float b: The second value.
+
 .. function:: MATH_REAL(i)
 
-Returns the real component of a complex number. (?)
+Returns the real component of a complex number. (To verify?)
 
 :param complex i: The complex number.
 
