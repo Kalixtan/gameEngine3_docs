@@ -5,9 +5,6 @@ AnimationModule Module
 
 This module provides functions for working with animations.
 
-Functions
----------
-
 .. function:: AnimationModule.loadAnimation(filename)
 
    Loads an animation from the specified file.
