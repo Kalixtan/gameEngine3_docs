@@ -4,9 +4,6 @@ GameSystem Module
 
 This module provides access to various game system functionalities.
 
-Functions
----------
-
 .. function:: GameSystem.getSimulationSpeed()
 
    Returns the simulation speed factor.
