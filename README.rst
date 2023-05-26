@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+The unoffisal “gameEngine3” documentation!
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub hosts the unoffisal documentation for “gameEngine3” (The Engine used in SoundShapes).
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+It uses ReadTheDocs.io:
+https://readthedocs.io/
